@@ -1,0 +1,19 @@
+{
+  "name": "seleniumjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^96.0.0",
+    "selenium-webdriver": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.0.16"
+  }
+}
